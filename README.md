@@ -1,3 +1,4 @@
+<img src="https://github.com/Jyotish121/Jyotish121/blob/main/github-header-image%20(2).png?raw=true"></img>
 <h1 align="center">Hi 👋, I'm Jyotish Kumar Mahato</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
